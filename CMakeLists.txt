@@ -8,7 +8,7 @@ set(GLSLANG_ENABLE_INSTALL ON)
 set(ENABLE_OPT OFF)
 FetchContent_Declare(
   glslang
-  GIT_REPOSITORY git@github.com:KhronosGroup/glslang.git
+  GIT_REPOSITORY git@github.com:vikke1234/glslang.git
   GIT_TAG        main
   OVERRIDE_FIND_PACKAGE
 )
